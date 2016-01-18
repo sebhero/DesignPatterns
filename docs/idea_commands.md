@@ -21,3 +21,12 @@ View can be activated via Alt+1.
 
 #### move line
 Alt + shift + up/down
+#### forgot () or {}
+- Select the text and
+Ctrl + Alt + T
+
+#### Run commands
+- Ctrl +  Shift A
+
+#### move to matching ()
+- Ctrl + Shift + M

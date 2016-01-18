@@ -10,7 +10,7 @@
 - [x] Stacks and queues
     - priority insert
 - [x] Linked list
-- [ ] Linked list2
+- [x] Linked list2
 - [ ] Recursion
 - [ ] Shell Sort
 - [ ] Quick Sort

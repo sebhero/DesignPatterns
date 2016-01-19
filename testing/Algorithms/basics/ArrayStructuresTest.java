@@ -74,6 +74,8 @@ public class ArrayStructuresTest {
 		Assert.assertFalse(answearFalse);
 	}
 
+
+
 	@Test
 	public void testDeleteIndex() throws Exception {
 		//Given

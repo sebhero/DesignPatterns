@@ -11,7 +11,7 @@
     - priority insert
 - [x] Linked list
 - [x] Linked list2
-- [ ] Recursion
+- [x] Recursion
 - [ ] Shell Sort
 - [ ] Quick Sort
 - [ ] Big O Notations
@@ -27,6 +27,30 @@
 ### Patterns
 - [x] Observer
 - [x] Strategy
+- [ ] Factory
+- [ ] Abstract Factory
+- [ ] Singelton
+- [ ] Builder
+- [ ] Prototype
+- [ ] Java Reflection
+- [ ] Decorator
+- [ ] Command
+- [ ] Adapter
+- [ ] Facade
+- [ ] Bridge
+- [ ] Template Mehtod
+- [ ] Iterator
+- [ ] Composite
+- [ ] Flyweight
+- [ ] State
+- [ ] Proxy
+- [ ] Chain of Responsibility
+- [ ] Iterpreter
+- [ ] Mediator
+- [ ] Memento
+- [ ] Visitor
+- [ ] MVC
+
 
 ### Testing
 Basic structure
